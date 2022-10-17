@@ -1,4 +1,4 @@
 # lolfish
 my fish setup 
 
-all credits goes there -> https://github.com/er0/lolfish
+all credits go there -> https://github.com/er0/lolfish
